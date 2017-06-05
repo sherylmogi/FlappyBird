@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FlappyBird()
+comment1.params=start
+comment1.target=void\ addColumn(boolean)
+comment2.params=g\ column
+comment2.target=void\ paintColumn(java.awt.Graphics,\ java.awt.Rectangle)
+comment3.params=
+comment3.target=void\ jump()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=g
+comment5.target=void\ repaint(java.awt.Graphics)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment7.params=e
+comment7.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment8.params=e
+comment8.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment9.params=e
+comment9.target=void\ keyPressed(java.awt.event.KeyEvent)
+numComments=10
